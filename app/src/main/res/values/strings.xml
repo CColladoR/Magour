@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magour</string>
+    <string name="rest">Quedan...</string>
+    <string name="cambiaUbi">Cambiar ubicación</string>
+</resources>
